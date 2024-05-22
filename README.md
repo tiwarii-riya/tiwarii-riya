@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Riya</h1>
 <h3 align="center">A passionate Data Science and Data Analytics Student from India</h3>
 <img align="right" , alt="coding" ,width="400", src"<img src="https://miro.medium.com/v2/resize:fit:944/0*F4t8-xz-b98ZcvEH.gif" alt="Why should a CS and Non-CS student practice Competitive-Programming? | by  Nidhi Chaurasia | Geek Culture | Medium"/>">
-- 🌱 I’m currently learning **about ML**
+I’m currently learning about ML
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
